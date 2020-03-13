@@ -11,4 +11,13 @@ Branch-Electrical
 
 Section-B
 
+-----------
+Experiment No.1
+Write a code to print name of the college.
+
+#include<stdio.h>
+intmain();
+{
+puts("WELCOME YOU IN GNDEC");
+}
 
