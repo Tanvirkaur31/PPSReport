@@ -9,3 +9,5 @@ UniRollno.-1905160
 Branch-Electrical
 
 Section-B
+
+![GNE](https://raw.githubusercontent.com/Tanvirkaur31/PPSReport/master/gnelogo.jpg)
