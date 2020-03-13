@@ -1,6 +1,6 @@
 # Programming for Problem Solving(ESC-105)
 --------
-Name-Tanvir Kaur
+Submitted by-Tanvir Kaur
 
 ClassRollno.-1916078
 
