@@ -1,3 +1,4 @@
+![gne](https://raw.githubusercontent.com/Tanvirkaur31/PPSReport/master/gnelogo.jpg)
 # Programming for Problem Solving(ESC-105)
 --------
 Submitted by-Tanvir Kaur
@@ -10,4 +11,4 @@ Branch-Electrical
 
 Section-B
 
-![GNE](https://raw.githubusercontent.com/Tanvirkaur31/PPSReport/master/gnelogo.jpg)
+
