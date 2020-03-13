@@ -16,7 +16,7 @@ Experiment No.1
 Write a code to print name of the college.
 ```
 #include<stdio.h>
-intmain();
+int main();
 {
 puts("WELCOME YOU IN GNDEC");
 }
