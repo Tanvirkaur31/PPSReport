@@ -1,4 +1,4 @@
-![gne](https://raw.githubusercontent.com/Tanvirkaur31/PPSReport/master/gnelogo.jpg)
+![gne](https://raw.githubusercontent.com/Tanvirkaur31/PPSReport/master/gnelogo1.jpg)
 # Programming for Problem Solving(ESC-105)
 --------
 Submitted by-Tanvir Kaur
